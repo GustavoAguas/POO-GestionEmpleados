@@ -7,8 +7,6 @@ Este es un proyecto simple de gestión de empleados desarrollado en C# utilizand
 1. [Estructura del Proyecto](#estructura-del-proyecto)
 2. [Cómo Ejecutar](#cómo-ejecutar)
 3. [Instrucciones de Uso](#instrucciones-de-uso)
-4. [Contribuir](#contribuir)
-5. [Licencia](#licencia)
 
 ## Estructura del Proyecto
 
@@ -21,11 +19,11 @@ Este es un proyecto simple de gestión de empleados desarrollado en C# utilizand
 
 ## Cómo Ejecutar
 
-Asegúrate de tener [.NET SDK](https://dotnet.microsoft.com/download) instalado.
+Asegúrate de tener Visual Studio instalado con sus respectivas herramientas y extensiones.
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`.
-2. Navega a la carpeta del proyecto: `cd GestionEmpleados`.
-3. Ejecuta la aplicación: `dotnet run`.
+1. Descarga o clona el contenido del repositorio.
+2. Abre el archivo de la solucion del proyecto.
+3. Ejecuta la aplicación.
 
 ## Instrucciones de Uso
 
@@ -33,17 +31,3 @@ Asegúrate de tener [.NET SDK](https://dotnet.microsoft.com/download) instalado.
 2. Ingresa la información solicitada.
 3. La aplicación mostrará la información de empleado y gerente utilizando polimorfismo a través de la interfaz.
 
-## Contribuir
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama: `git checkout -b tu-rama`.
-3. Realiza tus contribuciones.
-4. Haz commit de tus cambios: `git commit -m "Descripción de tus cambios"`.
-5. Haz push a la rama: `git push origin tu-rama`.
-6. Abre un Pull Request en GitHub.
-
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
