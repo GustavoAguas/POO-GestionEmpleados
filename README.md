@@ -10,12 +10,12 @@ Este es un proyecto simple de gestión de empleados desarrollado en C# utilizand
 
 ## Estructura del Proyecto
 
-- **GestionEmpleados.sln:** Solución del proyecto.
-- **GestionEmpleados.csproj:** Proyecto de C#.
-- **Empleado.cs:** Clase para el objeto Empleado.
-- **Gerente.cs:** Clase para el objeto Gerente.
-- **IMostrarInformacion.cs:** Interfaz para mostrar información.
-- **Program.cs:** Punto de entrada principal.
+- `GestionEmpleados.sln`: Solución del proyecto.
+- `GestionEmpleados.csproj`: Proyecto de C#.
+- `Empleado.cs`: Clase para el objeto Empleado.
+- `Gerente.cs`: Clase para el objeto Gerente.
+- `IMostrarInformacion.cs`: Interfaz para mostrar información.
+- `Program.cs`: Punto de entrada principal.
 
 ## Cómo Ejecutar
 
