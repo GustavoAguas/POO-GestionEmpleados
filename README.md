@@ -22,7 +22,7 @@ Este es un proyecto simple de gestión de empleados desarrollado en C# utilizand
 Asegúrate de tener Visual Studio instalado con sus respectivas herramientas y extensiones.
 
 1. Descarga o clona el contenido del repositorio.
-2. Abre el archivo de la solucion del proyecto.
+2. Abre el archivo de la solución del proyecto.
 3. Ejecuta la aplicación.
 
 ## Instrucciones de Uso
